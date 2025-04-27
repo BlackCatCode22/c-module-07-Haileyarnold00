@@ -1,0 +1,12 @@
+hyena Kamari
+hyena Shenzi
+hyena Banzai
+lion Mufasa
+lion Simba
+lion Nala
+tiger Rajah
+tiger Shere_Khan
+tiger Tigger
+bear Baloo
+bear Kenai
+bear Yogi

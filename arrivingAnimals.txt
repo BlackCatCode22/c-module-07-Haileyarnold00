@@ -1,0 +1,8 @@
+4 female hyena
+spring tan 70 Friguia_Park_Tunisia
+6 male lion
+summer golden 400 Zanzibar_Tanzania
+3 female tiger
+fall orange 290 Bengal_India
+8 male bear
+winter brown 850 Alaska_USA

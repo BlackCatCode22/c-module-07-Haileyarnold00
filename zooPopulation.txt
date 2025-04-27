@@ -1,0 +1,11 @@
+Bear Habitat:
+    BE01; Baloo; birth date 2017-12-15; brown color; male; 850 pounds; from Alaska_USA; arrived 2025-04-06
+
+Hyena Habitat:
+    HY01; Kamari; birth date 2021-03-15; tan color; female; 70 pounds; from Friguia_Park_Tunisia; arrived 2025-04-06
+
+Lion Habitat:
+    LI01; Mufasa; birth date 2019-06-15; golden color; male; 400 pounds; from Zanzibar_Tanzania; arrived 2025-04-06
+
+Tiger Habitat:
+    TI01; Rajah; birth date 2022-09-15; orange color; female; 290 pounds; from Bengal_India; arrived 2025-04-06
